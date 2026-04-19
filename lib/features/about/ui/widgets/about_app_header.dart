@@ -1,6 +1,6 @@
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_structure/core/utils/app_assets.dart';
+import 'package:life_line/core/utils/app_assets.dart';
 import 'package:flutter_svg/svg.dart';
 
 import '../../../../core/config/app_config.dart';

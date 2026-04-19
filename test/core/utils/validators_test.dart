@@ -1,6 +1,6 @@
 // test/core/utils/validators_test.dart
 
-import 'package:flutter_structure/core/utils/validators.dart';
+import 'package:life_line/core/utils/validators.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

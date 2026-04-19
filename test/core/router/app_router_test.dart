@@ -1,8 +1,8 @@
 // test/core/router/app_router_test.dart
 
 import 'package:flutter/material.dart';
-import 'package:flutter_structure/core/router/app_router.dart';
-import 'package:flutter_structure/core/router/routes.dart';
+import 'package:life_line/core/router/app_router.dart';
+import 'package:life_line/core/router/routes.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

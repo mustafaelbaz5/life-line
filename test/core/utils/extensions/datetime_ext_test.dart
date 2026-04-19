@@ -1,6 +1,6 @@
 // test/core/utils/extensions/datetime_ext_test.dart
 
-import 'package:flutter_structure/core/utils/extensions/datetime_ext.dart';
+import 'package:life_line/core/utils/extensions/datetime_ext.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

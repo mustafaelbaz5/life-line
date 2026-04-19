@@ -1,6 +1,6 @@
 // test/core/utils/extensions/string_ext_test.dart
 
-import 'package:flutter_structure/core/utils/extensions/string_ext.dart';
+import 'package:life_line/core/utils/extensions/string_ext.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

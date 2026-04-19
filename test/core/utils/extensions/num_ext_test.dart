@@ -1,7 +1,7 @@
 // test/core/utils/extensions/num_ext_test.dart
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_structure/core/utils/extensions/num_ext.dart';
+import 'package:life_line/core/utils/extensions/num_ext.dart';
 
 void main() {
   group('NumExt', () {

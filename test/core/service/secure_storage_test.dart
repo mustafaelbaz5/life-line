@@ -1,7 +1,7 @@
 // test/core/service/secure_storage_test.dart
 
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
-import 'package:flutter_structure/core/service/secure_storage.dart';
+import 'package:life_line/core/service/secure_storage.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';

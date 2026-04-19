@@ -1,7 +1,7 @@
 // test/core/widgets/custom_text_form_test.dart
 
 import 'package:flutter/material.dart';
-import 'package:flutter_structure/core/widgets/custom_text_form_.dart';
+import 'package:life_line/core/widgets/custom_text_form_.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

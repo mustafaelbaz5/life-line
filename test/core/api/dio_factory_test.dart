@@ -1,8 +1,8 @@
 // test/core/api/dio_factory_test.dart
 
 import 'package:dio/dio.dart';
-import 'package:flutter_structure/core/api/api_interceptors.dart';
-import 'package:flutter_structure/core/api/dio_factory.dart';
+import 'package:life_line/core/api/api_interceptors.dart';
+import 'package:life_line/core/api/dio_factory.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

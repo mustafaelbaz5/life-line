@@ -9,7 +9,7 @@ import 'package:flutter/foundation.dart';
 
 import 'core/di/dependency_injection.dart';
 import 'core/localization/localization_manager.dart';
-import 'k_app.dart';
+import 'life_line_app.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -38,7 +38,7 @@ void main() async {
       path: LocalizationManager.translationsPath,
       fallbackLocale: LocalizationManager.fallbackLocale,
       startLocale: LocalizationManager.fallbackLocale,
-      child: const KApp(),
+      child: const LifeLineApp(),
     ),
   );
 }

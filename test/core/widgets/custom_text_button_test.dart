@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:flutter_structure/core/widgets/custom_text_button.dart';
+import 'package:life_line/core/widgets/custom_text_button.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

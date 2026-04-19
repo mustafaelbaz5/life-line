@@ -11,8 +11,8 @@ import 'core/settings/cubit/app_settings_state.dart';
 import 'core/themes/theme_data/theme_data_dark.dart';
 import 'core/themes/theme_data/theme_data_light.dart';
 
-class KApp extends StatelessWidget {
-  const KApp({super.key});
+class LifeLineApp extends StatelessWidget {
+  const LifeLineApp({super.key});
 
   @override
   Widget build(final BuildContext context) {

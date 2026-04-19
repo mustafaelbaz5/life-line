@@ -1,6 +1,6 @@
 // test/core/networking/network_info_test.dart
 
-import 'package:flutter_structure/core/networking/network_info.dart';
+import 'package:life_line/core/networking/network_info.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:internet_connection_checker/internet_connection_checker.dart';
 import 'package:mockito/annotations.dart';
